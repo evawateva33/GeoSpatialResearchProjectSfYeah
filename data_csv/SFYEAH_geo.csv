@@ -1,0 +1,265 @@
+﻿excerpt_ID,interview_ID,lon,lat,pl_name,pl_safe,pl_unsafe,re_food,re_sleep,re_shower,re_restroom,re_hygiene,pl_healthcare,pl_business,pl_police,pl_YEH_provider,pl_park,time_day,time_night
+BD14_01,BD_14_08_07_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",1,,1,,,,,,,,1,,1,
+BD14_02,BD_14_08_07_2018,,,Alta Plaza Park,1,,,,,,,,,,,1,,1
+BD14_03,BD_14_08_07_2018,,,Union Square,1,,,,,,,,,,,,1,
+BD14_04,BD_14_08_07_2018,,,St. Anthony Foundation,1,,1,,,,,,,,,,1,
+BD17_01,BD_17_08_15_2018,,,Kite Hill,1,,,1,,,,,,,,1,,1
+BD17_02,BD_17_08_15_2018,,,Orphan Andy's,1,,1,,,,,,1,,,,,
+BD17_03,BD_17_08_15_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",1,,1,,,,,,,,1,,1,
+BD17_04,BD_17_08_15_2018,,,Jane Warner Plaza,,1,,,,,,,,1,,,,1
+BD17_05,BD_17_08_15_2018,,,Dimensions Queer Youth Clinic,1,,,,,,,1,,,1,,1,
+BD17_06,BD_17_08_15_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",,,,,1,,,,,,,,1,
+BD17_07,BD_17_08_15_2018,,,"LYRIC Center for LGBTQQ Youth, 127 Collingwood St",1,,,,,,1,,,,1,,1,
+BD17_08,BD_17_08_15_2018,,,"SF LGBT Center, 1800 Market St",,,,,,,1,,,,,,1,
+BD17_09,BD_17_08_15_2018,,,Eureka Valley/Harvey Milk Memorial Branch Library,1,,,,,,,,,,,,1,
+BD17_10,BD_17_08_15_2018,,,18th and Castro,1,,,,,,,,,,,,,1
+BD17_11,BD_17_08_15_2018,,,"Haight Street Referral Center, 1317 Haight St",,,,1,,,,,,,1,,1,
+BD17_12,BD_17_08_15_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",,,,1,,,,,,,1,,1,
+BD17_13,BD_17_08_15_2018,,,"SF LGBT Center, 1800 Market St",,,1,,,,,,,,,,1,
+BD17_14,BD_17_08_15_2018,,,"LYRIC Center for LGBTQQ Youth, 127 Collingwood St",1,,1,,,,,,,,,,1,
+BD13_01,BD_13_08_02_2018,,,Haight and Ashbury,1,,,,,,,,,,,,1,
+BD13_02,BD_13_08_02_2018,,,Oak and Ashbury,1,,,,,,,,,,,,1,
+BD13_03,BD_13_08_02_2018,,,"Haight Street Referral Center, 1317 Haight St",1,,1,,,1,1,,,,1,,1,
+BD13_04,BD_13_08_02_2018,,,Park Branch Library,1,,,1,,,,,,,,,,1
+BD13_05,BD_13_08_02_2018,,,Hippie Hill,1,,,,,,,,,,,1,1,
+BD13_06,BD_13_08_02_2018,,,Oak and Baker,,1,,,,,,,,,,1,1,
+BD13_07,BD_13_08_02_2018,,,Oak and Ashbury,1,,,,,,,,,,,1,1,
+BD13_08,BD_13_08_02_2018,,,Buena Vista Park,1,,,1,1,1,1,,,,,1,1,
+BD07_01,BD_07_07_12_2018,,,Coffee to the People,1,,1,,,1,,,1,,,,1,
+BD07_02,BD_07_07_12_2018,,,Buena Vista Park,1,,,,,,,,,,,1,1,
+BD07_03,BD_07_07_12_2018,,,"Haight Street Referral Center, 1317 Haight St",1,,1,,,,,,,,1,,1,
+BD07_04,BD_07_07_12_2018,,,Hippie Hill,1,,,,,,,,,,,1,1,
+BD07_05,BD_07_07_12_2018,,,Hippie Hill,,1,,,,,,,,,,1,1,
+BD07_06,BD_07_07_12_2018,,,Alvord Lake,,1,,,,,,,,,,1,1,
+BD02_01,BD_02_07_05_2018,,,Buena Vista Park,1,,,1,,,,,,,,1,,1
+BD02_02,BD_02_07_05_2018,,,Buena Vista Park,,1,,,,,,,,,,1,1,
+BD02_03,BD_02_07_05_2018,,,"Ben and Jerry's, 1480 Haight St",,1,,,,,,,1,,,,1,
+BD02_04,BD_02_07_05_2018,,,"Haight Street Referral Center, 1317 Haight St",1,,1,,,,1,,,,1,,1,
+BD02_05,BD_02_07_05_2018,,,"Taking it to the Streets, 1572 Haight St",1,,,,,,,,,,1,,1,
+BD02_06,BD_02_07_05_2018,,,Huckleberry Cole Street Youth Clinic,1,,,,,,1,1,,,1,,1,
+BD02_07,BD_02_07_05_2018,,,554 Clayton St,1,,,,,,1,,,,1,,1,
+BD02_08,BD_02_07_05_2018,,,"Amal's Deli, 1416 Haight St",1,,1,,,,,,1,,,,1,
+GF02_01,GF_02_07_05_2018,,,"Well's Fargo, 1266 Market St",,1,,1,,,,,,,,,,1
+GF02_02,GF_02_07_05_2018,,,Orange Village Hostel,,,,1,,,,,1,,,,,
+GF02_03,GF_02_07_05_2018,,,Geary and Tayor,1,,,,,,,,,,,,1,
+GF02_04,GF_02_07_05_2018,,,5th and Clara,1,,,1,,,,,,,,,,1
+GF02_05,GF_02_07_05_2018,,,Octavia and Market,1,,,,,,,,,,,,1,
+GF02_06,GF_02_07_05_2018,,,"SF LGBT Center, 1800 Market St",1,,1,,,,,,,,1,,1,
+GF02_07,GF_02_07_05_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",,1,1,,,,,,,,1,,1,
+GF02_08,GF_02_07_05_2018,,,"Lark - Inn for Youth, 869 Ellis St",,1,1,1,,,,,,,1,,,
+GF02_09,GF_02_07_05_2018,,,"Glide Foundation, 434 Ellis St",,,1,,,,,,,,,,1,
+GF02_10,GF_02_07_05_2018,,,St. Anthony Foundation,,,1,,,,1,1,,,,,1,
+GF02_11,GF_02_07_05_2018,,,7th and Market,,1,,1,,,,,,,,,,1
+GF02_12,GF_02_07_05_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",1,,1,,,1,1,1,,,1,,1,
+GF02_13,GF_02_07_05_2018,,,Jones and Eddy,,,,,,1,,,,,,,1,
+GF02_14,GF_02_07_05_2018,,,Emos Place Café,,,,,,1,,,,,,,1,
+GF02_15,GF_02_07_05_2018,,,"San Francisco Public Library, 100 Larkin St",1,,,,,1,,,,,,,1,
+GF02_16,GF_02_07_05_2018,,,Westfield San Francisco Centre,1,,,,,1,,,,,,,1,
+BD05_01,BD_05_07_11_2018,,,Haight and Clayton,1,,,,,,,,,,,,1,
+BD05_02,BD_05_07_11_2018,,,Haight and Masonic,1,,,,,,,,,,,,1,
+BD05_03,BD_05_07_11_2018,,,Golden Gate Park,,1,,,,,,,,1,,1,,
+BD05_04,BD_05_07_11_2018,,,"Haight Street Market, 1530 Haight St",1,,1,,,,,,1,,,,1,
+BD05_05,BD_05_07_11_2018,,,"Haight-Ashbury Free Clinics, 558 Clayton St",1,,,,,,,1,,,,,1,
+BD05_06,BD_05_07_11_2018,,,Huckleberry Cole Street Youth Clinic,1,,,,,,,1,,,1,,1,
+BD05_07,BD_05_07_11_2018,,,"Amal's Deli, 1416 Haight St",,1,,,,,,,1,1,,,1,
+BD03_01,BD_03_07_06_2018,,,"California Check Cashing Stores, 1098 Market,",,1,,,,,,,1,,,,1,1
+BD03_02,BD_03_07_06_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",,1,,,,,,,,,1,,1,
+BD03_03,BD_03_07_06_2018,,,"Taco Bell, 691 Eddy St",,1,1,,,,,,,,,,1,1
+BD03_04,BD_03_07_06_2018,,,Eddy and Oak,,1,,,,,,,,,,,1,1
+BD03_05,BD_03_07_06_2018,,,Eddy and Larkin,,1,,,,,,,,,,,1,1
+BD03_06,BD_03_07_06_2018,,,Golden Gate Ave and Hyde,,1,,,,,,,,,,,1,1
+BD03_07,BD_03_07_06_2018,,,Civic Center/UN Plaza,,1,,,,,,,,1,,,1,1
+BD03_08,BD_03_07_06_2018,,,"Hospitality House, 181 6th St",1,,,,,,1,,,,,,,
+BD03_09,BD_03_07_06_2018,,,"Hospitality House, 146 Leavenworth St",1,,,,,,1,,,,,,,
+BD03_10,BD_03_07_06_2018,,,"Glide Foundation, 434 Ellis St",1,,,,,,1,,,,,,1,
+BD03_11,BD_03_07_06_2018,,,Arriba Juntos,,1,,,,,,,1,,,,1,
+BD03_12,BD_03_07_06_2018,,,1020 Haight Str,,1,,,,,,,,,1,,,
+BD03_13,BD_03_07_06_2018,,,Jones and Golden Gate,,1,,,,,,,,,,,,
+BD03_14,BD_03_07_06_2018,,,Van Ness and Ellis,,1,,,,,,,,1,,,,
+BD03_15,BD_03_07_06_2018,,,Van Ness and Polk,,1,,,,,,,,1,,,,
+BD03_16,BD_03_07_06_2018,,,"Hall of Justice, 850 Bryant St",,1,,,,,,,,1,,,,
+BD03_17,BD_03_07_06_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",,1,,,,,,,,,1,,1,
+BD03_18,BD_03_07_06_2018,,,"San Francisco Public Library, 100 Larkin St",1,,,1,,,,,,,,,1,
+BD03_19,BD_03_07_06_2018,,,"Tenderloin Museum, 398 Eddy St",1,,,,,,,,,,,,1,
+BD03_20,BD_03_07_06_2018,,,St. Anthony Foundation,1,,,,,,,,,,,,,
+GF01_01,GF_01_07_19_2018,,,"SF LGBT Center, 1800 Market St",1,,1,1,,1,,1,,,1,,1,
+GF01_02,GF_01_07_19_2018,,,Dolores Park,1,1,,,,,,,,,,1,,
+GF01_03,GF_01_07_19_2018,,,"Haight Street Referral Center, 1317 Haight St",1,,1,,,,,,,,1,,,
+GF01_04,GF_01_07_19_2018,,,"LYRIC Center for LGBTQQ Youth, 127 Collingwood St",1,,,,,,,,,,,,,
+GF01_05,GF_01_07_19_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",1,1,1,,1,1,,1,,,1,,1,
+GF01_06,GF_01_07_19_2018,,,"Strut, 470 Castro St",1,,,,,,,1,,,,,,
+GF01_07,GF_01_07_19_2018,,,"Reliance Market, 699 Castro St",1,,,1,,,,,,,,,,1
+GF01_08,GF_01_07_19_2018,,,"Openhouse LGBT Senior Housing, 65 Laguna St",1,,,1,,,,,,,,,,1
+GF01_09,GF_01_07_19_2018,,,"San Francisco Public Library, 100 Larkin St",1,,,,,,,,,,,,1,
+GF01_10,GF_01_07_19_2018,,,St. Anthony Foundation,1,,,,,,,,,,,,,
+GF01_11,GF_01_07_19_2018,,,"Safeway, 2020 Market St",,1,1,,,,,,1,,,,,
+GF01_12,GF_01_07_19_2018,,,"New Door Ventures, 3221 20th St",,1,,,,,,,,,1,,,
+RP03_01,RP_03_07_10_2018,,,"Haight Street Referral Center, 1317 Haight St",1,,1,,,1,1,,,,1,,1,
+RP03_02,RP_03_07_10_2018,,,"Chico's Pizza, 131 6th St",,1,1,,,,,,1,,,,1,1
+RP03_03,RP_03_07_10_2018,,,16th and Mission,,1,,,,,,,,,,,,
+RP03_04,RP_03_07_10_2018,,,Geary and 14th,1,,,,,,,,,,,1,,
+RP03_04,RP_03_07_10_2018,,,"7-Eleven, 5100 Geary Blvd",1,,1,,,1,,,1,,,,,
+RP03_04,RP_03_07_10_2018,,,"Gordo Taqueria, 5450 Geary Blvd",1,,,,,1,,,1,,,,,
+RP03_05,RP_03_07_10_2018,,,"Starlight Market, 402 Ellis St",,1,,,,,,,1,,,,,
+RP03_06,RP_03_07_10_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",1,1,1,,1,1,1,,,,1,,1,
+RP03_07,RP_03_07_10_2018,,,Mountain Lake Park,1,,,1,,,,,,,,1,,1
+RP03_09,RP_03_07_10_2018,,,"7-Eleven, 4850 Geary Blvd",1,,1,,,,,,1,,,,,
+RP03_10,RP_03_07_10_2018,,,"Richmond District YMCA, 360 18th Ave",1,,,,1,1,1,,,,,,1,
+RP05_01,RP_05_07_11_2018,,,Love on Haight,1,,,,,,,,1,,,,,
+RP05_02,RP_05_07_11_2018,,,"Whole Foods, 690 Stanyan St",1,,1,,,1,,,1,,,,1,
+GF10_01,GF_10_11_02_2018,,,3rd Street Youth Center and Clinic,1,,1,,,1,1,1,,,1,,1,
+GF10_02,GF_10_11_02_2018,,,Bayview Park,1,,,1,,,,,,,,1,,1
+RP01_01,RP_01_07_05_2018,,,"Haight Street Referral Center, 1317 Haight St",1,,1,,,1,1,,,,1,,1,
+RP01_02,RP_01_07_05_2018,,,Huckleberry Cole Street Youth Clinic,1,,,,,,,1,,,,,,
+RP01_03,RP_01_07_05_2018,,,"Haight Street Market, 1530 Haight St",1,,1,,,,,,1,,,,,
+RP01_04,RP_01_07_05_2018,,,Love on Haight,1,,,,,,,,1,,,,,
+RP01_05,RP_01_07_05_2018,,,"Amal's Deli, 1416 Haight St",1,,1,,,,,,1,,,,,
+RP01_06,RP_01_07_05_2018,,,Buena Vista Park,1,,,,,,,,,,,1,1,
+RP01_07,RP_01_07_05_2018,,,Park Branch Library,1,,,,,1,,,,,,,1,
+RP01_08,RP_01_07_05_2018,,,Park Branch Library,1,,1,,,1,1,,,,1,,,
+RP13_01,RP_13_08_15_2018,,,"SF LGBT Center, 1800 Market St",1,,1,,,,,,,,1,,1,
+RP13_02,RP_13_08_15_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",1,,1,,1,1,1,,,,1,,,
+RP13_03,RP_13_08_15_2018,,,Haight Street Referral Center,1,1,1,,,,,,,,1,,1,
+RP13_04,RP_13_08_15_2018,,,1100 Ocean Ave,1,,,1,1,1,,,,,1,,,
+RP13_05,RP_13_08_15_2018,,,16th and Mission BART Station,,1,,,,,,,,,,,1,1
+RP13_06,RP_13_08_15_2018,,,"Francis Hotel, 2084 Mission Street",,1,,1,,,,,,,,,,
+RP13_07,RP_13_08_15_2018,,,Potrero Hill Recreation Center,,1,,,,,,,,,,1,,1
+RP13_08,RP_13_08_15_2018,,,Potrero Hill Recreation Center,1,,,,,,,,,,,1,1,
+GF07_01,GF_07_10_26_2018,,,7th and Market,,1,,,,,,,,,,,1,1
+GF07_02,GF_07_10_26_2018,,,3rd Street and Palou,,1,,,,,,,,,,,,
+GF07_03,GF_07_10_26_2018,,,3rd Street and Shafter,,1,,,,,,,,,,,,
+GF07_04,GF_07_10_26_2018,,,"Frisco Fried, 5176 3rd Street",,1,,,,,,,1,,,,,
+GF07_05,GF_07_10_26_2018,,,Harbor Road and Middle Point Road,,1,,,,,,,,,,,,
+GF07_06,GF_07_10_26_2018,,,3rd Street Youth Center and Clinic,1,,1,,,1,1,1,,,1,,1,
+GF07_07,GF_07_10_26_2018,,,Mission Neighborhood Health Center,1,,,,,1,1,1,,,,,,
+GF07_08,GF_07_10_26_2018,,, Zuckerberg San Francisco General Hospital ,1,,,,,,,1,,,,,,
+GF07_09,GF_07_10_26_2018,,,"Hummingbird Peer Respite Center, 887 Potrero Avenue",1,,1,1,,1,1,1,,,,,,
+BD21_01,BD_21_11_02_2018,,,3rd and Oakdale,,1,,,,,,,,,,1,1,1
+BD21_02,BD_21_11_02_2018,,,Adam Rodgers Park,,1,,,,,,,,,,1,,
+BD21_03,BD_21_11_02_2018,,,Gilman Playground,,1,,,,,,,,1,,1,,1
+BD21_04,BD_21_11_02_2018,,,Gilman Playground,1,,,,,,,,,,,1,1,
+BD21_05,BD_21_11_02_2018,,,Martin Luther King Jr Poolool,1,,,,,,,,,,,1,1,
+BD21_06,BD_21_11_02_2018,,,Third Baptist Church of San Francisco,1,,1,,,1,1,,,,,,,1
+BD21_07,BD_21_11_02_2018,,,Bayview Linda Brooks-Burton Branch Library,1,,,,,,,,,,,,1,
+BD21_08,BD_21_11_02_2018,,,21st and Mission Street,,1,,,,,,,,,,,,
+BD20_01,BD_20_10_19_2018,,,3rd Street Youth Center and Clinic,1,,1,,,1,1,1,,,1,,1,
+BD10_01,BD_10_07_24_2018,,,Saint Boniface Catholic Church,1,,,1,,,,,,,,,1,
+BD10_02,BD_10_07_24_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",1,,1,,,1,1,,,,1,,1,
+BD10_03,BD_10_07_24_2018,,,Leavenworth St & Golden Gate Ave,,1,,,,,,,,,,,1,1
+BD10_04,BD_10_07_24_2018,,,Hyde St and Turk,,1,,,,,,,,,,,1,1
+BD10_05,BD_10_07_24_2018,,,8th and Market,,1,,,,,,,,1,,,1,1
+BD10_06,BD_10_07_24_2018,,,8th and Stevenson St,,1,,,,,,,,,,,1,1
+BD10_07,BD_10_07_24_2018,,,"Carl's Jr, 1 Hallidie Plaza",,1,1,,,,,,,,,,,
+BD10_08,BD_10_07_24_2018,,,Hyde St and Golden Gate Ave,,1,,,,,,,,,,,1,1
+BD10_09,BD_10_07_24_2018,,,4th and Geary,,1,,1,,,,,,,,,,
+BD10_10,BD_10_07_24_2018,,,Jones and Golden Gate,,1,,,,,,,,,,,1,1
+GF03_01,GF_03_07_24_2018,,,1020 Haight Street,1,,,1,1,1,1,,,,1,,,
+GF03_02,GF_03_07_24_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",1,,1,,,,1,,,,1,,1,
+GF03_03,GF_03_07_24_2018,,,Emo's Café,1,,1,,,,,,,,,,1,
+GF03_04,GF_03_07_24_2018,,,Golden Gate Park,1,,,1,,,,,,,,1,1,1
+GF03_05,GF_03_07_24_2018,,,Buena Vista Park,1,,,1,,,,,,,,1,1,1
+GF03_06,GF_03_07_24_2018,,,St. Anthony Foundation,,,1,,,,,,,,,,1,
+GF03_07,GF_03_07_24_2018,,,"Glide Foundation, 434 Ellis St",1,,1,,,,1,,,,,,1,
+GF03_08,GF_03_07_24_2018,,,"Amigo's, 500 Ellis St",1,,1,,,,,,1,,,,1,
+GF03_09,GF_03_07_24_2018,,,"Tom Waddell Urban Care Clinic, 230 Golden Gate Ave",1,,,,,,,1,,,,,1,
+RP10_01,RP_10_07_24_2018,,,Civic Center/UN Plaza,1,,,,,,,,,1,,1,1,
+RP10_02,RP_10_07_24_2018,,,8th and Mission,,1,,,,,,,,,,,,1
+RP10_03,RP_10_07_24_2018,,,6th and Market,,1,,,,,,,,,,,1,1
+RP10_04,RP_10_07_24_2018,,,Jones and Golden Gate Ave,,1,,1,,,,,,,,,,1
+RP10_05,RP_10_07_24_2018,,,10th and Stevenson St,1,1,,1,,,,,,1,,,,1
+RP10_06,RP_10_07_24_2018,,,7th and Market,,,,,,,,,,1,,,1,
+RP10_07,RP_10_07_24_2018,,,Westfield San Francisco Centre,1,,,,,1,,,1,,,,1,
+RP10_08,RP_10_07_24_2018,,,"City Impact Rescue Mission, 140 Turk St",1,,1,,,,1,1,,,,,1,
+RP10_09,RP_10_07_24_2018,,,Hyde St and Turk,,1,,,,,,,,,,,1,1
+RP10_10,RP_10_07_24_2018,,,Phoenix Hotel,,1,,,,,,,1,1,,,,
+RP10_11,RP_10_07_24_2018,,,Civic Center BART Station,,,,,,,,,,,,,1,
+RP10_12,RP_10_07_24_2018,,,St. Vincent De Paul Society Multi Service Center,,1,1,1,1,1,1,,,,,,,1
+BD12_01,BD_12_07_31_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",1,,1,,1,,1,1,,,1,,1,
+BD12_02,BD_12_07_31_2018,,,Dolores Park,1,,,1,,,,,,,,1,1,
+BD12_03,BD_12_07_31_2018,,,Dolores Park,,1,,,,,,,,,,1,,1
+BD12_04,BD_12_07_31_2018,,,Castro Country Club,,,1,,,,,,1,,,,,
+BD12_05,BD_12_07_31_2018,,,"Starbucks, 4094 18th St",1,,,,,1,,,1,,,,1,
+BD12_06,BD_12_07_31_2018,,,18th and Castro,1,,,,,,,,,,,,1,
+BD12_07,BD_12_07_31_2018,,,18th and Castro,,1,,,,,,,,,,,,1
+BD12_08,BD_12_07_31_2018,,,Castro and Market,,1,,,,,,,,1,,,1,1
+BD18_01,BD_18_08_15_2018,,,Diamond Youth Shelter,1,,1,1,,1,1,,,,1,,,1
+BD18_02,BD_18_08_15_2018,,,"Huckleberry House, 3310 Geary Bld",1,,1,1,1,1,1,,,,1,,,1
+BD18_03,BD_18_08_15_2018,,,"Strut, 470 Castro St",1,,,,,1,,1,,,,,1,
+BD18_04,BD_18_08_15_2018,,,17th and Market,,,,,,1,,,,,,,1,
+BD18_05,BD_18_08_15_2018,,,Dolores Park,1,,,1,,,,,,,,1,1,
+BD19_01,BD_19_08_16_2018,,,"Dolores Street Community Services, 938 Valencia St",1,,1,1,,1,,,,,1,,,1
+BD19_02,BD_19_08_16_2018,,,"Next Door Shelter, 1001 Polk St",1,,1,1,,1,,,,,1,,,1
+BD19_03,BD_19_08_16_2018,,,"Safeway, 2020 Market St",,1,,,,,,,,,,,,1
+BD19_04,BD_19_08_16_2018,,,Dolores Park,1,,,1,,,,,,,,1,1,
+BD19_05,BD_19_08_16_2018,,,Dolores Park,,1,,,,,,,,,,1,,1
+BD19_06,BD_19_08_16_2018,,,Civic Center BART Station,,1,,,,,,,,1,,,,1
+BD19_07,BD_19_08_16_2018,,,Market and Church St,,1,,1,,,,,1,,,,,1
+BD19_08,BD_19_08_16_2018,,,John McLaren Park,1,,,1,,,,,,,,1,1,1
+BD19_09,BD_19_08_16_2018,,,Mission St & Excelsior Ave,1,,,,,,,,,,,,1,1
+BD19_10,BD_19_08_16_2018,,,St. Vincent De Paul Society Multi Service Center,1,,1,1,1,1,1,,,,,,1,
+BD19_11,BD_19_08_16_2018,,,16th and Mission BART Station,,1,,,,,,,,1,,,1,1
+BD19_12,BD_19_08_16_2018,,,"Mission Neighborhood Resource Center, 165 Capp St",1,,1,1,,1,1,,,,,,1,
+BD19_13,BD_19_08_16_2018,,,"Mission Neighborhood Health Center, 240 Shotwell St",1,,,,,1,,1,,,,,1,
+BD19_14,BD_19_08_16_2018,,,"The Women's Building, 3543 18th St",1,,1,,,1,1,1,,,,,1,1
+BD19_15,BD_19_08_16_2018,,,16th and Capp St,,1,,,,,,,,,,,1,1
+BD19_16,BD_19_08_16_2018,,,24th and Mission BART Station,,1,,,,,,,,,,,1,1
+BD19_17,BD_19_08_16_2018,,,"Walgreens, 1979 Mission St",,1,,,,,,,,,,,1,1
+BD15_01,BD_15_08_08_2018,,,"Duboce Park, Duboce and Sanchez",1,,,,,,,,,,,1,1,
+BD15_02,BD_15_08_08_2018,,,"SF LGBT Center, 1800 Market St",1,,1,,,1,,,,,1,,1,
+BD15_03,BD_15_08_08_2018,,,Ellis and Van Ness,,1,,,,,,,,,,,1,1
+BD15_04,BD_15_08_08_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",1,1,1,,,1,,,,,1,,1,
+BD15_05,BD_15_08_08_2018,,,6th and Market,,1,,,,,,,,,,,1,1
+BD15_06,BD_15_08_08_2018,,,8th and Mission,,1,,,,,,,,,,,1,1
+BD15_07,BD_15_08_08_2018,,,Ellis and Larkin,,1,,,,,,,,,,,1,1
+BD15_08,BD_15_08_08_2018,,,Golden Gate and Larkin,,1,,,,,,,,,,,1,1
+BD15_09,BD_15_08_08_2018,,,Turk and Larkin,,1,,,,,,,,,,,1,1
+BD15_10,BD_15_08_08_2018,,,Ocean Beach Fire Pits,1,,,,,,,,,,,1,1,1
+BD15_11,BD_15_08_08_2018,,,Fort Point National Historic Site,1,,,,,,,,,,,1,1,1
+BD15_12,BD_15_08_08_2018,,,St. Francis Hospital,1,,,,,,,1,,,,,,
+BD15_13,BD_15_08_08_2018,,,Westfield San Francisco Centre,1,,,,,1,,,,,,,1,
+BD15_14,BD_15_08_08_2018,,,Midtown Terrace Playground Picnic Area,1,,,1,,,,,,,,1,1,1
+BD15_15,BD_15_08_08_2018,,,Perramont Hotel,1,,,1,,,,,,,1,,,1
+BD15_16,BD_15_08_08_2018,,,Jane Warner Plaza,,1,,,,,,,,,,,,1
+BD15_17,BD_15_08_08_2018,,,Jane Warner Plaza,1,,,,,,,,,,,,1,
+BD15_18,BD_15_08_08_2018,,,Dolores Park,1,,,,,1,,,,,,1,1,
+RP12_01,RP_12_07_31_2018,,,St. Anthony Foundation,,,1,,,,,,,,,,1,
+RP12_02,RP_12_07_31_2018,,,16th and Mission BART Station,,,1,,,,,,,,,,1,
+RP02_01,RP_02_07_06_2018,,,Haight Street Referral Center,1,,,,,1,1,,,,1,,1,
+RP02_02,RP_02_07_06_2018,,,"Whole Foods, 690 Stanyan St",1,,,,,1,,,1,,,,1,
+RP02_03,RP_02_07_06_2018,,,Huckleberry Cole Street Youth Clinic,1,,,,,,,1,,,1,,1,
+RP02_04,RP_02_07_06_2018,,,Coffee to the People,1,,,,,1,,,1,,,,1,
+RP02_05,RP_02_07_06_2018,,,Park Branch Library,1,,,,,1,,,,,,,1,
+RP07_01,RP_07_07_17_2018,,,"San Francisco Public Library, 100 Larkin St",1,,,,,1,,,,,,,1,
+RP07_02,RP_07_07_17_2018,,,HealthRIGHT 360,1,,,,,,,1,,,,,1,
+RP07_03,RP_07_07_17_2018,,,Eureka Valley Recreation Center,1,,,,,1,,,,,,,1,
+BD09_01,BD_09_07_24_2018,,,Turk and Taylor,,1,,,,,,,,,,,1,1
+BD09_02,BD_09_07_24_2018,,,6th and Howard,,1,,,,,,,,,,1,1,1
+BD09_03,BD_09_07_24_2018,,,9th and Mission,,1,,,,,,,,,,1,,1
+RP04_01,RP_04_07_10_2018,,,Buena Vista Park,,1,,,,,,,,1,,1,1,1
+RP04_02,RP_04_07_10_2018,,,"Amal's Deli, 1416 Haight St",1,,1,,,,,,1,,,,1,
+RP06_01,RP_06_07_12_2018,,,Ellis and Leavenworth,,1,,1,,,,,,,,,,1
+RP06_02,RP_06_07_12_2018,,,554 Clayton St,1,,1,,,,1,,,,1,,,1
+RP06_03,RP_06_07_12_2018,,,O'Farrell and Leavenworth,,1,,,,,,,,,,,,1
+RP06_04,RP_06_07_12_2018,,,Jones and Leavenworth,,1,,,,,,,,,,,1,1
+GF04_01,GF_04_07_31_2018,,,St. Vincent De Paul Society Multi Service Center,1,,1,1,1,1,1,,,,,,1,1
+GF04_02,GF_04_07_31_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",1,,1,,,,,1,,,1,,1,
+BD11_01,BD_11_07_25_2018,,,"Larkin Street Youth Services, 134 Golden Gate Ave",1,,1,,,1,,1,,,1,,1,
+BD08_01,BD_08_07_19_2018,,,Perramont Hotel,1,,,1,,,,,,,1,,,1
+RP11_01,RP_11_07_31_2018,,,Buena Vista Park,,1,,,,,,,,,,1,1,1
+RP11_02,RP_11_07_31_2018,,,Park Branch Library,1,,1,,,,,,,,1,,1,
+RP11_03,RP_11_07_31_2018,,,St. Mary’s Medical Center,1,,,,,,1,1,,,,,1,1
+RP11_04,RP_11_07_31_2018,,,Golden Gate Park 45th Avenue Playground,1,,,1,,,,,,,,1,1,
+RP11_05,RP_11_07_31_2018,,,Hippie Hill,1,,,1,,,,,,,,1,1,
+GF11_01,GF_11_11_02_2018,,,San Francisco Independent Living Skills Program,1,,1,1,1,1,1,,,,1,,1,
+GF11_02,GF_11_11_02_2018,,,Gilman Playground,1,,,,,,,,,,,1,1,
+GF06_01,GF_06_10_19_2018,,,Kirkwood and Ingalls St,,1,,,,,,,,,,,1,1
+GF06_02,GF_06_10_19_2018,,,Oakdale and Ingalls St,,1,,,,,,,,,,,1,1
+GF06_03,GF_06_10_19_2018,,,Harbor Rd and Ingalls St,,1,,,,,,,,,,,1,1
+GF06_04,GF_06_10_19_2018,,,West Point Rd and Ingalls St,,1,,,,,,,,,,,1,1
+GF06_05,GF_06_10_19_2018,,,St. Luke's Hospital,1,,,,,,,1,,,,,1,
+RP09_01,RP_09_07_24_2018,,,"Boeddeker Park, 246 Eddy St",1,,,,,,,,,,,1,1,
+RP09_02,RP_09_07_24_2018,,,"Boeddeker Park, 246 Eddy St",,1,,,,,,,,,,1,,1
+RP09_03,RP_09_07_24_2018,,,"Sunset Hotel, 161 6th St",1,,,1,,,,,,,1,,,1
+RP09_04,RP_09_07_24_2018,,,"San Francisco Public Library, 100 Larkin St",1,,,,,,,,,,,,1,
+RP09_05,RP_09_07_24_2018,,,Abraham Lincoln Brigade Monument,1,,,,,,,,,,,1,1,
+BD04_01,BD_04_07_10_2018,,,"Greyhound, 425 Mission St",,1,,,,,,,,,,,1,1

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin/>
+        <pubdate>20131031</pubdate>
+        <title>Bay Area Rapid Transit (BART) Routes, California, 2013</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace/>
+          <publish>California. Department of Transportation</publish>
+        </pubinfo>
+        <onlink>http://purl.stanford.edu/mh686mh0418</onlink>
+        <lworkcit>
+          <citeinfo>
+            <title>California Department of Transportation Maps and GIS Data</title>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This line shapefile represents the routes of the Bay Area Rapid Transit (BART) system serving the San Francisco Bay Area of California. This layer is part of a collection of GIS data created by the California Department of Transportation (Caltrans).</abstract>
+      <purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20131031</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <spdom>
+      <bounding>
+        <westbc>-122.471131</westbc>
+        <eastbc>-121.899322</eastbc>
+        <northbc>38.023861</northbc>
+        <southbc>37.556750</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>lcsh</themekt>
+        <themekey>Local transit</themekey>
+        <themekey>San Francisco Bay Area Rapid Transit (Calif.)</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <place>
+        <placekt>geonames</placekt>
+        <placekey>California</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>This is Category I data. Category I data are public domain and available to share with Caltrans partners. Caltrans makes no representation about the suitability, reliability, availability, timeliness, or accuracy of its GIS data for any purpose. The GIS data and information are provided "as is" without warranty of any kind. Use of the data should be limited to informational and preliminary study purposes only. Caltrans shall not be held liable by users of the data, or by any other party, for any loss or damages, consequential or otherwise, including but not limited to time, money, or goodwill, arising from the use, operation or modification of the data. For planning purposes only. The Rail Database is intended for high level planning purposes and is a point in time reporting of estimated current conditions and forecast of future conditions. While every effort has been made to ensure accuracy of reported data, the Database is not intended for detailed service or facility planning. Such planning requires in-depth site analysis and field confirmation of actual conditions.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Caltrans, Division of Transportation Planning, Office of System and Freight Planning</cntorg>
+          <cntper>GIS Coordinator</cntper>
+        </cntorgp>
+        <cntpos>GIS Coordinator</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1120 N St., MS-32</address>
+          <city>Sacramento</city>
+          <state>CA</state>
+          <postal>95814</postal>
+          <country>US</country>
+        </cntaddr>
+      </cntinfo>
+    </ptcontac>
+    <datacred>California Department of Transportation. (2013). Bay Area Rapid Transit (BART) Routes, California, 2013. California Department of Transportation. Available at http://purl.stanford.edu/mh686mh0418.</datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.1.4959</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <srcinfo>
+        <typesrc>None</typesrc>
+        <srccontr>Bay Area Rapid Transit, BART</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>All data was provided as is from BART with only minor changes to reflect additional track extensions.</procdesc>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>6</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>BART_13</enttypl>
+        <enttypd>The line feature class of Bay Area Rapid Transit (BART) routes</enttypd>
+        <enttypds>Caltrans</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Line</attrlabl>
+        <attrdef>BART color code line designation</attrdef>
+        <attrdefs>Bay Area Rapid Transit</attrdefs>
+        <attrdomv>
+          <udom>Unique values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape_Leng</attrlabl>
+        <attrdef>Line length</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Unique values of lines length calculated by GIS software</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ROUTE</attrlabl>
+        <attrdef>Route destination description</attrdef>
+        <attrdefs>Bay Area Rapid Transit</attrdefs>
+        <attrdomv>
+          <udom>Unique values</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Stanford Geospatial Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Branner Earth Sciences Library</address>
+          <address>Mitchell Bldg. 2nd floor</address>
+          <address>397 Panama Mall</address>
+          <city>Stanford</city>
+          <state>California</state>
+          <postal>94305</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>650-723-2746</cntvoice>
+        <cntemail>brannerlibrary@stanford.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>See access and use constraints information.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20160420</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Stanford Geospatial Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Mitchell Bldg. 2nd floor</address>
+          <address>397 Panama Mall</address>
+          <city>Stanford</city>
+          <state>California</state>
+          <postal>94305</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>650-723-2746</cntvoice>
+        <cntemail>brannerlibrary@stanford.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>
